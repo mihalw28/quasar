@@ -107,7 +107,7 @@ In the example below, replace `package-name` with the `name` property from your 
   "type": "chrome",
   "request": "launch",
   "name": "Quasar App: chrome",
-  "url": "http://localhost:8080",
+  "url": "http://localhost:9000",
   // To properly reflect changes after HMR with Vite
   "enableContentValidation": false,
   "webRoot": "${workspaceFolder}/src",
